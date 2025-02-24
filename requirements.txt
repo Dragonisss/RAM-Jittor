@@ -1,0 +1,9 @@
+astunparse==1.6.3
+einops==0.8.1
+jittor==1.3.9.14
+numpy==1.26.4
+opencv-python==4.11.0.86
+pillow==11.1.0
+PyYAML==6.0.2
+six==1.17.0
+tqdm==4.67.1
